@@ -75,7 +75,7 @@ class SampleViewController: UIViewController {
 
 class SampleCustomView: UIView {
     var data: SampleData?
-    fun update() {
+    func update() {
         // TODO
     }
     @IBOutlet private dynamic weak var nameLabel: UILabel!
